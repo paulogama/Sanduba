@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Sanduba</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Configurações</string>
+
+    <string name="facebook_app_id">473303019515886</string>
+    <string name="facebook_app_id_hm">478518285661026</string>
+
+    <string name="cancelled">Cancelado</string>
+    <string name="permission_not_granted">Você deve entrar com o Facebook.</string>
+    <string name="ok">OK</string>
+    <string name="hello_user">Hello %1$s!</string>
 </resources>
